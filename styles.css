@@ -1,18 +1,16 @@
 /*  your css code here. If applicable */
-/* General Body Styling */
+
 body {
   background-color: rgb(204, 204, 204);
   font-family: Arial, sans-serif;
   
 }
 
-/* Headings */
 h1, h2 {
   text-align: center;
   color: #333;
 }
 
-/* Unordered List */
 ul {
 	background-color: rgb(255, 255, 255);
   padding: 1px;
@@ -37,7 +35,7 @@ a:hover {
   text-decoration: none;
 }
 
-/* Video and Audio Players */
+
 .player_one, .player_two {
   margin: 20px auto;
   background-color: rgb(255, 255, 255);
